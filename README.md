@@ -14,7 +14,7 @@ Apart from being a versatile Auto Save Notepad, it offers the following features
 
 6) Full screen view of note and list
 
-![Screenshot](search.jpg)
+![Screenshot](search.jpg=100x20)
 ![Screenshot](Main_screen.jpg)
 ![Screenshot](notepad.jpg)
 
