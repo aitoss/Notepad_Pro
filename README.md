@@ -14,8 +14,8 @@ Apart from being a versatile Auto Save Notepad, it offers the following features
 
 6) Full screen view of note and list
 
-<img src="search.jpg" width="400" height="800" style="width:auto; height:auto; width-max=100%;">
-<img src="Main_screen.jpg" width="400" height="800">
-<img src="notepad.jpg" width="400" height="800">
+<img src="search.jpg" width="400" height="700" style="width:auto; height:auto; width-max=100%;">
+<img src="Main_screen.jpg" width="400" height="700" style="width:auto; height:auto; width-max=100%;>
+<img src="notepad.jpg" width="400" height="700" style="width:auto; height:auto; width-max=100%;>
 
 
